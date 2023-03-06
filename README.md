@@ -1,6 +1,16 @@
 # Rezy-Fantom
 This is the general repo of the Rezy project for Fantom Hackathon 2023
 
+# What is Rezy?
+Rezy is the first tokenization app for plastic bottles (PET) that rewards a user when he/she recycles the bottle. Here in Ecuador people don`t recycle because of lack of rewards , and people who wish to do it have to carry their bottles to a centralized point, it's very tricky , here at Rezy the idea is to decentralize using reverse vending machines and reward people with tokens on the Fantom Network. Users just SCAN the barcode/QR, DROP the bottle in the machine, and then they claim  1 PET token directly to their wallet.
+If they want to exchange it for stable coins , they will use the swap station website.
+
+Companies that recycle PET bottles pays 0.02 USD per bottle , and they provide liquidity to the swap station in order to exchange PET for fUSD.
+
+This is a prototype derived from my own project "Reciclachain" presentend in Guayaquil - Ecuador  and this project got into the finals in "Enviromental Challenges of the Municipality of Guayaquil",https://twitter.com/davotrade2010/status/1573816612045692930/photo/1 and now I decided to power it up switching from idea to a prototype on the fantom network.
+
+
+
 # General Architecture:
 --------------Frontend side---------------------------
 The Rezy project is made of various elements described as follows:
