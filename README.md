@@ -30,9 +30,9 @@ The Rezy project is made of various elements described as follows:
 3) A cardboard made "machine" for illustrating how this project works in a possible real scenario at a smaller scale ( of course).
 
 # Contract Addresses (Fantom Testnet 4002)
-1)PET token=0x2936C1Af841F61cf6489B5B989c5070b2b6A2Df5
-2)fUSD token=0x39D974c8307e7E194Ed6C5258DfC9D8b0648A158
-3)Swap station=0x52386394F71539f468152B220A46E6A2aDd82cF0  --This contract is the same than "0xBca5E7bCE998e084e06a37d2Cfa89980941D5fDD" from Fantom
+1)PET token=0x2936C1Af841F61cf6489B5B989c5070b2b6A2Df5      https://testnet.ftmscan.com/address/0x2936C1Af841F61cf6489B5B989c5070b2b6A2Df5
+2)fUSD token=0x39D974c8307e7E194Ed6C5258DfC9D8b0648A158     https://testnet.ftmscan.com/address/0x39D974c8307e7E194Ed6C5258DfC9D8b0648A158
+3)Swap station=0x52386394F71539f468152B220A46E6A2aDd82cF0   https://testnet.ftmscan.com/address/0x52386394F71539f468152B220A46E6A2aDd82cF0
 4)Main Wallet=0xA7a171CCf274D0dCdC1FB4c8B7d440c4D5834053
 
 # Frontend links
