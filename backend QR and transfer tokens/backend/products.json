@@ -1,0 +1,72 @@
+[
+    {
+        "Brand": "Pepsi ",
+        "volume": "355ml",
+        "material": "aluminum",
+        "empty weight": "13g",
+        "image": "https:\/\/res.cloudinary.com\/walmart-labs\/image\/upload\/d_default.jpg\/w_960,dpr_auto,f_auto,q_auto:best\/gr\/images\/product-images\/img_large\/00750103131130L.jpg"
+    },
+    {
+        "Brand": "DrPepper",
+        "volume": "355ml",
+        "material": "aluminum",
+        "empty weight": "13g",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTdcwgEWBM_mj9kGItegtpLcVmyXnOkN9TRWA&usqp=CAU"
+    },
+    {
+        "Brand": "RedBull",
+        "volume": "250ml",
+        "material": "aluminum",
+        "empty weight": "11g",
+        "image": "https:\/\/m.media-amazon.com\/images\/I\/61TA5RC0yKL._SL1500_.jpg"
+    },
+    {
+        "Brand": "guayusa",
+        "volume": "500ml",
+        "material": "aluminum",
+        "empty weight": "22g",
+        "image": "https:\/\/www.agrodely.com\/wp-content\/uploads\/2020\/06\/p_var_guayusa_lata_500ml.jpg"
+    },
+    {
+        "Brand": "powerade",
+        "volume": "500ml",
+        "material": "Pet",
+        "empty weight": "32g",
+        "image": "https:\/\/yaperito.com\/shop\/wp-content\/uploads\/2021\/02\/powerade-manzana-500ml.jpg"
+    },
+    {
+        "Brand": "sporade",
+        "volume": "500ml",
+        "material": "Pet",
+        "empty weight": "31g",
+        "image": "https:\/\/www.supermercadosantamaria.com\/documents\/10180\/10504\/132101591_M.jpg"
+    },
+    {
+        "Brand": "sporade",
+        "volume": "1.2l",
+        "material": "Pet",
+        "empty weight": "53g",
+        "image": "https:\/\/d2o812a6k13pkp.cloudfront.net\/Productos\/40381141002_01.jpg"
+    },
+    {
+        "Brand": "7up",
+        "volume": "355ml",
+        "material": "Pet",
+        "empty weight": "21g",
+        "image": "https:\/\/media.nidux.net\/pull\/850\/1000\/13019\/4302-product-5f9700837710e-4302-1.png"
+    },
+    {
+        "Brand": "powerade",
+        "volume": " 1l",
+        "material": "Pet",
+        "empty weight": "54g",
+        "image": "https:\/\/www.supermercadosantamaria.com\/documents\/10180\/10504\/115401242_G.jpg"
+    },
+    {
+        "Brand": "bigcola",
+        "volume": "300ml",
+        "material": "Pet",
+        "empty weight": "20g",
+        "image": "https:\/\/www.ajegroup.com\/wp-content\/uploads\/2020\/05\/mexico-big-cola.jpg"
+    }
+]
