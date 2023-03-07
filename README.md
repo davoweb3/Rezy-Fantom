@@ -36,12 +36,12 @@ The Rezy project is made of various elements described as follows:
 4)Main Wallet=0xA7a171CCf274D0dCdC1FB4c8B7d440c4D5834053
 
 # Frontend links
- SwapStation   https://reliable-malabi-22a3bc.netlify.app/
- User interface https://frolicking-faloodeh-d7dc61.netlify.app/
- Wallet  https://app.netlify.com/sites/singular-belekoy-7d79da/
+ 1. SwapStation   https://reliable-malabi-22a3bc.netlify.app/
+ 2. User interface https://frolicking-faloodeh-d7dc61.netlify.app/
+ 3. Wallet  https://app.netlify.com/sites/singular-belekoy-7d79da/
 
 # QR codes used for testing
-https://docs.google.com/document/d/1m63L3Ypgrw4PVKWUsY_3F0McWsmNkObP7MPEPyOlwl0/edit?usp=sharing
+1. https://docs.google.com/document/d/1m63L3Ypgrw4PVKWUsY_3F0McWsmNkObP7MPEPyOlwl0/edit?usp=sharing
 
 # Extras
 If you need PET tokens feel free to ask me at cedarmat@gmail.com, you can get them too scanning the QR codes and then scanning your wallet on the Fantom testnet network in order to get some :)
