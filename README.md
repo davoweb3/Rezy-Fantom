@@ -9,7 +9,9 @@ Companies that recycle PET bottles pays 0.02 USD per bottle , and they provide l
 
 This is a prototype derived from my own project "Reciclachain" presentend in Guayaquil - Ecuador  and this project got into the finals in "Enviromental Challenges of the Municipality of Guayaquil",https://twitter.com/davotrade2010/status/1573816612045692930/photo/1 and now I decided to power it up switching from idea to a prototype on the fantom network.
 
+# In a nutshell this is how it works...
 
+https://youtu.be/xN4QcepcOX4
 
 # General Architecture:
 --------------Frontend side---------------------------
@@ -20,7 +22,7 @@ The Rezy project is made of various elements described as follows:
 
 ------------Backend Side------------------------------
 1) A backend and a middleware that connects to frontend user interface and manage all QR readings and executes the PET tokens minting to the wallets.
-2) A remote LAMP server that executes a simple database , this database changes the state 0 to 1 and viceversa everytime a succesful scaning is made
+2) A remote LAMP server that executes a simple database , this database changes the state 0 to 1 and viceversa everytime a succesful scaning is made ( THIS IS ONLY FOR TURN ON AND OFF A LED, in further versions a Servomotor will open and close a Lid)
 3) A thirdweb API that connects using thirdweb SDK ( This calls a minting fuction )
 4) 2 ERC20 smartcontracts fromThirdWeb that represents PET and fUSD tokens , another contract forked from fantom for exchanging PET for fUSD tokens in 1 :1 ratio.
 
