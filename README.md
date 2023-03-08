@@ -28,7 +28,7 @@ The Rezy project is made of various elements described as follows:
 
 ---------Basic Hardware--------------------------
 1) ESP32 board that communicates with the LAMP remote server in order to turn on/off a green led when a valid QR code is read.
-2) A Android board oginally used for bus validator and refactored for fitting in the demo box.
+2) An Android board and screen oginally used for bus validator and refactored for fitting in the demo box.
 3) A cardboard made "machine" for illustrating how this project works in a possible real scenario at a smaller scale ( of course).
 
 # Contract Addresses (Fantom Testnet 4002)
